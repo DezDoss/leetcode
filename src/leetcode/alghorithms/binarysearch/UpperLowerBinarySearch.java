@@ -3,7 +3,7 @@ package leetcode.alghorithms.binarysearch;
 public class UpperLowerBinarySearch {
 
     public static void main(String[] args) {
-        System.out.println(binarySearchUpper(new int[] {2, 5, 8, 16, 21, 27, 35}, 21));
+        System.out.println(binarySearchUpper(new int[] {2, 5}, 5));
     }
 
 
